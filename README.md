@@ -32,7 +32,7 @@ La aplicación tiene dos secciones principales:
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd tu_repositorio
+    cd Challenge-Encriptador
     ```
 
 3. Abre el archivo `index.html` en tu navegador para ver el proyecto en acción.
