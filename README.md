@@ -1,6 +1,6 @@
 # Challenge Encriptador
 
-Este es un proyecto de encriptador de texto, propuesto por #AluraLatam y #oraclenexteducation! que convierte letras en un código específico y permite desencriptar el texto cifrado. El proyecto utiliza HTML, CSS y JavaScript para la implementación y está diseñado para ser responsive y funcional en diferentes dispositivos.
+Este es un proyecto de encriptador de texto, propuesto por #AluraLatam y #OracleNextEducation  que convierte letras en un código específico y permite desencriptar el texto cifrado. El proyecto utiliza HTML, CSS y JavaScript para la implementación y está diseñado para ser responsive y funcional en diferentes dispositivos.
 
 ## Descripción
 
